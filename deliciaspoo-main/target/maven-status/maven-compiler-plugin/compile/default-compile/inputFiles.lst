@@ -1,0 +1,17 @@
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\aplicacion\servicios\ClienteService.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\aplicacion\servicios\TipoClienteService.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\DeliciasApplication.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\dominio\entidades\Cliente.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\dominio\entidades\TipoCliente.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\dominio\repositorios\IClienteRepositorio.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\dominio\repositorios\ITipoClienteRepositorio.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\jpa\entidades\ClienteJpaEntity.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\jpa\entidades\TipoClienteJpaEntity.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\jpa\repositorios\IClienteJpaRepository.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\jpa\repositorios\ITipoClienteJpaRepository.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\mapeadores\IClienteJpaMapper.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\mapeadores\ITipoClienteJpaMapper.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\repositorios\ClienteRepositorioImpl.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\infraestructura\adaptadores\repositorios\TipoClienteRepositorioImpl.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\presentacion\controladores\ClienteController.java
+C:\Users\pablo\Desktop\TAREAPOOA\src\main\java\com\suda\delicias\presentacion\controladores\TipoClienteController.java
